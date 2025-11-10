@@ -1,11 +1,11 @@
 {
-  "name": "GOBBLR",
+  "name": "Gobblr ($GBLR)",
   "symbol": "GBLR",
   "description": "The official $GBLR token — a Solana memecoin powered by community, fun, and evolution.",
-  "image": "https://raw.githubusercontent.com/GBLRofficial/gblr-assets/main/assets/4uEaz4xHjD5cXP5XjQ9sW7Cxfk4FWHnTikLxQhVapump/logo.png",
+  "image": "https://raw.githubusercontent.com/GBLRofficial/gblr-assets/main/assets/4uEaz4xHjD5cXP5XjQ9sW7Cxfk4FWHnTikLxQhVapump/logo.PNG",
   "extensions": {
     "website": "Coming soon",
-    "twitter": "https://x.com/gblrofficial",
+    "twitter": "https://x.com/GBLRofficial",
     "discord": "Coming soon"
   },
   "tags": ["memecoin", "solana", "community"]
